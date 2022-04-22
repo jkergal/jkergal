@@ -8,4 +8,4 @@
 
 ## 📊 Some stats
 
-[![jkergal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkergal&show_icons=true&theme=tokyonight)](https://github.com/jkergal/github-readme-stats)
+[![jkergal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkergal&show_icons=true&theme=github_dark)](https://github.com/jkergal/github-readme-stats)
