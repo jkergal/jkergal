@@ -4,4 +4,4 @@
 - 🎨 Also working with Photoshop and Figma for UI Design
 - 📫 How to reach me : hello@johannkergal.fr
 
-[![jkergal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jkergal/github-readme-stats)
+[![jkergal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkergal)](https://github.com/jkergal/github-readme-stats)
